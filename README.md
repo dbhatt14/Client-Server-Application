@@ -1,7 +1,7 @@
 # DESCRIPTION:
 >
 This is a simple Client-Server application written in JAVA. Upon successful connection, the server will send values and the 
-same will be plotted by the client.
+same will be plotted by the client. This project is developed in a team of 6 students.
 
 >
 ### Use the below command to compile all the classes and resolve the dependencies, must be in the Project Folder:
